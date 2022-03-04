@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Sansita+Swashed:wght@300&family=Shadows+Into+Light&display=swap');
+body {
+    background-color: #cbd0db;
+    border: 5px solid gray;
+    margin: 10px;
+    padding-left: 10px;
+    padding-bottom: 5px;
+}
+
+p {
+    color: rgba(243, 110, 14, 0.992);
+    background-color: rgb(245, 221, 225);
+    padding: 5px;
+}
+
+span {
+    font-family: 'Sansita Swashed', Arial, Helvetica, sans-serif;
+    line-height: 1.5em;
+}
+
+h3 {
+    color: rgb(59, 57, 146);
+    background-color: aqua;
+    padding: 3px;
+}
+
+h1 {
+    color: royalblue;
+    background-color: yellow;
+    padding: 2px;
+}
+
+a {
+    color: black;
+}
+
+h2 {
+    color: rgb(59, 57, 146);
+}
+
+strong {
+    background-color: aliceblue;
+    padding: 5px;
+}
+
+details {
+    font-weight: bold;
+}
+
+input {
+    color: darkblue;
+    font-family: 'Sansita Swashed', Arial, Helvetica, sans-serif;
+    line-height: 20px;
+}
+
+li {
+    line-height: 30px;
+}
+
+
+/* Class */
+
+.list-box {
+    background-color: rgb(160, 196, 226);
+    padding: 1.5;
+}
+
+
+/* box-model */
+
+#box-model {
+    background-color: lightgreen;
+    color: darkred;
+    width: 400px;
+    border: 2px solid gray;
+    margin: 2px;
+    padding: 10px;
+}
